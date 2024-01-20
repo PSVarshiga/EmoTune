@@ -16,7 +16,7 @@ Let AI decode your feelings in real-time, turning emotional cues into musical de
 Install the required packages
 
 ```bash
-  pip install Flask==2.2.3
+pip install Flask==2.2.3
 spotipy==2.22.1
 pandas==1.5.3
 gunicorn==20.1.0
