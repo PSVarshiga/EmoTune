@@ -42,7 +42,7 @@ To deploy this project run
   run APP.py
 ```
 
-## Authors
+## Author
 
 - [@VarshigaPS](https://github.com/PSVarshiga)
 
